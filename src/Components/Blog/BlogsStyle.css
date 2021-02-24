@@ -1,0 +1,42 @@
+body{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
+.card {
+    border:none;
+    outline: none;
+    background-color: #d5f7;
+    border-radius: 20px;
+    transition: transform .3s;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    
+}
+
+.card:hover {
+    transform: translateY(-15px);
+    
+}
+
+.text-1 {
+    font-size: 13px;
+    
+}
+
+.info {
+    line-height: 17px;
+    
+}
+
+.shoe {
+    background: #dc3545;
+    
+}
+
+.cursor {
+    cursor: pointer;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}

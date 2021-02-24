@@ -1,0 +1,8 @@
+export const ADD_BLOG= "ADD_BLOG";
+export const REMOVE_BLOG= "REMOVE_BLOG";
+export const UPDATE_BLOG= "UPDATE_BLOG";
+export const GET_BLOGS= "GET_BLOGS";
+export const GET_BLOG_DETAIL= "GET_BLOG_DETAIL";
+export const LOGIN_AUTH_SUCCESS= "LOGIN_AUTH_SUCCESS";
+export const LOGOUT_AUTH_SUCCESS= "LOGOUT_AUTH_SUCCESS";
+
